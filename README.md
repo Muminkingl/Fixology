@@ -9,9 +9,8 @@ You can download the necessary files directly from this repository.
 ## How to Use
 
 1. Download both `Fixology.exe` and `fix_grammar.ahk` files
-2. Place them in the same folder
-3. Run the `fix_grammar.ahk` script (requires AutoHotkey installed)
-4. Select any text in any application and press `Alt+P` to correct its grammar
+2. Run the `fix_grammar.ahk` script (requires AutoHotkey installed)
+3. Select any text in any application and press `Alt+P` to correct its grammar
 
 ## Requirements
 
@@ -26,4 +25,4 @@ You can download the necessary files directly from this repository.
 
 ## Contact
 
-If you encounter any issues, please create an issue in this repository.
+If you encounter any issues, please create an issue in this repository or in [Telegram](https://t.me/RtxMumin)
