@@ -1,0 +1,12 @@
+# Ignore source code
+*.py
+*.spec
+build/
+
+# Allow the executable, config, and AHK script
+!fix_grammar.ahk
+!dist/
+!dist/Fixology.exe
+!dist/config.txt
+!README.md
+!.gitignore
